@@ -1,0 +1,163 @@
+# Page Sections
+
+## Home Page Sections
+
+- text: CRAFT YEAST FOR CRAFT BREWS
+  text2: High quality, pitch-ready liquid yeast for Probrewers and Homebrewers
+  text3: null
+  text4: TESTING THIS INFORMATION
+  text5: null
+  buttonText: EXPLORE OUR STRAINS
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/hometop.jpg
+  image2: null
+  page: home
+  section: 1
+
+- text: TOP-SELLING STRAINS
+  text2: High quality, pitch-ready liquid yeast for Probrewers and Homebrewers
+  text3: Let’s talk about yeast! We join Emmy-winning host Cat Neville on PBS's tasteMAKERS series as she profiles makers who are crafting small-batch, artisan products that are redefining the flavor of American food and drink.
+  text4: null
+  text5: null
+  buttonText: See all our strains
+  buttonText2: null
+  sidetext: LATEST
+  videoSrcURL: https://player.vimeo.com/video/166840828
+  image: null
+  image2: null
+  page: home
+  section: 2
+
+- text: FRESH HEALTHY UNIQUE YEAST
+  text2: Omega Yeast’s unique propagation methods are tuned to strain growth variation.
+  text3: As a result, our yeast cells grow fresh, healthy and metabolically strong in counts optimized for consistent performance. We expertly generate classic brewers’ strains and innovate new strains and blends that are contributing meaningfully to advances in brewing. We are passionate about what we do.
+  text4: null
+  text5: null
+  buttonText: Explore our strains
+  buttonText2: null
+  sidetext: THE OMEGA DIFFERENCE
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: home
+  section: 3
+
+- text: PROBREWERS
+  text2: We’re here to make it easy to focus on brewing. Pro pitches are made-to-order, yielding the freshest, healthiest yeast at the height of its performance. Brewers order by pitch rate and batch size for precise counts, transparent pricing and overall consistency. Any strain, in any quantity, at any time of year is custom propped fresh for your brew in 7-10 days. We carry all the strains you’re used to working with and the innovative strains you’d like to.
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: WHO WE WORK FOR
+  videoSrcURL: null
+  image: ../images/homesection4.jpg
+  image2: null
+  page: home
+  section: 4
+
+- text: HOMEBREWERS
+  text2: We are passionately in support of local craft. We want to make sure brewers can spend as much time brewing as possible, refining recipes and experimenting with new beer styles. We are unified in our purpose of growing fresh, healthy and metabolically strong yeast and innovating strains and blends that are consistently working for you. To your garages!
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/homesection5.jpg
+  image2: null
+  page: home
+  section: 5
+
+- text: RETAILERS
+  text2: Interested in adding Omega Yeast to your homebrew shop? We are here to support you and your customers. We make it easy to order with low minimums, vigorously fermenting pitches, and unique strains!
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: null
+  videoSrcURL: null
+  image: ../images/homesection6.jpg
+  image2: null
+  page: home
+  section: 6
+
+- text: null
+  text2: Omega Yeast is made up of a handful of microbiologists, homebrewers, professional brew staff and craft beer fans who have made it our express purpose to make brewing easier and better for everyone.
+  text3: We have built our reputation on growing fresh, healthy and metabolically strong yeast. We're here to explore, solve, experiment, and most of all, to help if you need us. Email us any time—we'll respond quickly.
+  text4: null
+  text5: null
+  buttonText: About Us
+  buttonText2: null
+  sidetext: ABOUT US
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: home
+  section: 7
+
+## About Page Sections
+
+- text: Omega Yeast produces fresh, high quality and pitch-ready liquid yeast for Probrewers and Homebrewers. We're a dedicated crew located in Chicago and St. Louis—a handful of microbiologists, homebrewers, professional brew staff and craft beer fans who have made it our express purpose to make brewing easier and better for everyone.
+  text2: We believe the best yeast is the freshest yeast. That's why our Probrew pitches are always custom made-to-order, and delivered the date you need them. And Homebrewers can find a selection of our vigorously healthy yeast at a local homebrew shop near you.
+  text3: We believe in experimentation, innovation and questioning the status quo, which is why we produce over 75 strains, including common workhorse varieties and several unique ones that you can't find anywhere else. Our proprietary propagation method generates metabolically strong yeast cells, with consistent fermentation and optimized cell counts.
+  text4: As much as we love our yeast, we're just as proud of our people and service. We promise to make it easy for you to focus on brewing because we’re always here for you. Check out our resources or email us any questions—we're here to help.
+  text5: null
+  buttonText: About Us
+  buttonText2: null
+  sidetext: ABOUT US
+  videoSrcURL: null
+  image: ../images/aboutsection1.jpg
+  image2: null
+  page: about
+  section: 1
+
+- text: null
+  text2: null
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: OUR CREW
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: about
+  section: 2
+
+## Contact Page Sections
+
+- text: QUESTIONS? WE'RE HERE TO HELP.
+  text2: null
+  text3: null
+  text4: null
+  text5: null
+  buttonText: null
+  buttonText2: null
+  sidetext: CONTACT
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: contact
+  section: 1
+
+## Products Page
+
+- text: WE'LL MAKE THE YEAST. YOU MAKE THE BEER.
+  text2: null
+  text3: null
+  text4: null
+  text5: null
+  buttonText:
+  buttonText2: null
+  sidetext: OUR YEAST
+  videoSrcURL: null
+  image: null
+  image2: null
+  page: products
+  section: 1
